@@ -1,0 +1,14 @@
+layout_spectrum: 0.1187958784867078
+typography_spectrum: 0.8922276445664465
+color:
+  brandStrength: 0.8885971133131534
+  lightness: 0.6237850012257695
+  saturation: 0.9851922588422894
+  rhythmicContrast: 0.03400036320090294
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: TG
